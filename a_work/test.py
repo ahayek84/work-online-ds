@@ -8,7 +8,7 @@ def write_message( name ):
 def main():
     write_message()
     x = int(input("Please enter your x: "))
-    y = int(input("Please enter your y: "))
+    y = int(input("Please2 enter your y: "))
     print("z = ", mul(x,y))
 
 if __name__ == "__main__":
